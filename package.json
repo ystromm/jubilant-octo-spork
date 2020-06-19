@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ystromm/jubilant-octo-spork#readme",
   "dependencies": {
+    "@reactivex/rxjs": "^6.5.5",
     "typescript": "^3.9.5"
   }
 }
